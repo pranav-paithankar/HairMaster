@@ -1,0 +1,7 @@
+email : ourworkinfo23@gmail.com
+pswd: Shahid@123
+
+website id: hairmaster0
+pswd: hairmaster0
+
+link: https://hairmaster0.000webhostapp.com/index.html
